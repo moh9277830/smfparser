@@ -18,9 +18,9 @@ namespace SitaMessageFileParser.Presentation.Views
     /// <summary>
     /// Interaction logic for ShellView.xaml
     /// </summary>
-    public partial class ShellView : Window
+    public partial class ShellWindow : Window
     {
-        public ShellView()
+        public ShellWindow()
         {
             InitializeComponent();
         }
